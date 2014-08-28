@@ -15,3 +15,8 @@ on our wiki.
 
  * [Quick Start](http://github.com/instructure/canvas-lms/wiki/Quick-Start)
  * [Production Start](http://github.com/instructure/canvas-lms/wiki/Production-Start)
+
+This fork
+=======
+
+This fork is used to develop our own functionnalities and make pull requests. Each new functionnality lives in its own branch. Feel free to get them by forking this project and cherry-picking or merging.
